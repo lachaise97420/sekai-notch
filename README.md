@@ -23,6 +23,15 @@ Works with **any Quickshell setup** (no Ryoku dependency).
 - 🎯 **Portrait-monitor only** — targets the leftmost portrait display automatically.
 - 🪶 **Lightweight when idle**.
 
+## 📸 Preview
+
+![screenshot 1](./screenshots/2026_11_09_15_51_47_screenshot.png)
+![screenshot 2](./screenshots/2026_11_09_15_53_22_screenshot.png)
+![screenshot 3](./screenshots/2026_11_09_15_54_52_screenshot.png)
+![screenshot 4](./screenshots/2026_11_09_15_55_09_screenshot.png)
+![screenshot 5](./screenshots/2026_11_09_15_55_29_screenshot.png)
+![screenshot 6](./screenshots/2026_11_09_15_56_13_screenshot.png)
+
 ## 🚀 Install
 
 ```bash
