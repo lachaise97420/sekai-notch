@@ -23,28 +23,6 @@ Works with **any Quickshell setup** (no Ryoku dependency).
 - 🎯 **Portrait-monitor only** — targets the leftmost portrait display automatically.
 - 🪶 **Lightweight when idle**.
 
-## 📸 Preview
-
-| Collapsed | Expanded (Actions) |
-|---|---|
-| ![collapsed](./screenshots/notch-collapsed.png) | ![expanded](./screenshots/notch-expanded-actions.png) |
-
-| Music | Weather |
-|---|---|
-| ![music](./screenshots/notch-page-1-music.png) | ![weather](./screenshots/notch-page-2-weather.png) |
-
-| Workspaces | Clock |
-|---|---|
-| ![workspaces](./screenshots/notch-page-3-workspaces.png) | ![clock](./screenshots/notch-page-4-clock.png) |
-
-| Stats | Clipboard |
-|---|---|
-| ![stats](./screenshots/notch-page-5-stats.png) | ![tray](./screenshots/notch-page-6-tray.png) |
-
-| Customize drawer |
-|---|
-| ![settings](./screenshots/notch-settings.png) |
-
 ## 🚀 Install
 
 ```bash
